@@ -43,18 +43,19 @@ public class FrequencyCounter {
 
     public static int[] frequencyCounter(char[][] verrattava, char[] taulukko) {
 
-        if (verrattava != null || taulukko != null) {
+        if (verrattava != null && taulukko != null) {
 
             int[] t = new int[taulukko.length];
-            for (int i = 0; i < verrattava.length; i++) {
 
-                for (int j = 0; j < taulukko.length; j++) {
+            for (int j = 0; j < taulukko.length; j++) {
+                for (int i = 0; i < verrattava.length; i++) {
 
-                    if (verrattava[i][j] == taulukko[j]) {
-                        t[i]++;
+                    for (int k = 0; k < verrattava[i].length; k++) {
+
+                        if (verrattava[i][k] == taulukko[j]) {
+                            t[j]++;
+                        }
                     }
-
-
                 }
             }
 
