@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Month {
+public class Month2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Hello! I verbalise your input.\n" + "Please, enter a number:");
