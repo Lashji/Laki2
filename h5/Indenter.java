@@ -1,4 +1,4 @@
-public class Intender {
+public class Indenter {
     public static void main(String[] args) {
 
         int pituus = 0;
@@ -21,8 +21,6 @@ public class Intender {
             System.out.println("Error!");
         }
 
-
     }
-
 
 }
