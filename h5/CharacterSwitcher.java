@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class SwitchCharacters {
+@SuppressWarnings("Duplicates")
+public class CharacterSwitcher {
     public static final Scanner sc = new Scanner(System.in);
 
     public static void main(String[] args) {
@@ -14,15 +15,13 @@ public class SwitchCharacters {
             System.out.println("Please, enter the number of columns:");
             y = Integer.parseInt(sc.nextLine());
         } catch (NumberFormatException e) {
-            System.out.println(e.getMessage());
         }
 
         char[][] taulukko = fill2DCharacterArray(x, y);
 
         if (taulukko != null) {
-            System.out.println("Error!");
 
-            System.out.println("Please, enter the first character: ");
+            System.out.println("Please, enter the first character:");
             char char1 = ' ';
             char char2 = ' ';
             try {
@@ -30,7 +29,6 @@ public class SwitchCharacters {
                 System.out.println("Please, enter the second character:");
                 char2 = sc.nextLine().charAt(0);
             } catch (NumberFormatException e) {
-                System.out.println(e.getMessage());
             }
 
             boolean switched = switchCharacters(taulukko, char1, char2);

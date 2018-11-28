@@ -1,3 +1,4 @@
+@SuppressWarnings("Duplicates")
 public class String2Array {
 
     public static void main(String[] args) {
