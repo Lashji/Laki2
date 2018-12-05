@@ -2,35 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40ec9811-1d34-4a4f-b89f-11b1e37818a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h5/FileLoader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h4/String2Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/h4/String2Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h5/FrequencyCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/h5/CharacterCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h5/Indenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/h5/Indenter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h5/LineCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/h5/LineCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h5/SwitchCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/h5/CharacterSwitcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h5/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/h5/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laki2/Array2DFiller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laki2/Array2DFiller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laki2/Array2DPrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laki2/Array2DPrinter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laki2/ArrayFiller1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laki2/ArrayFiller1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laki2/ArrayFiller2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laki2/ArrayFiller2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laki2/ArrayInitialiser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laki2/ArrayInitialiser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laki2/CharacterFinder3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laki2/CharacterFinder3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laki2/Characters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laki2/Characters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laki2/FrequencyCounter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laki2/In.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laki2/In.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laki2/Intender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laki2/Judge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laki2/Judge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laki2/LineCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laki2/LineCounter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laki2/Occurrences.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laki2/Occurrences.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laki2/Replicator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laki2/Replicator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laki2/String2Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laki2/String2Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laki2/StringLengthComparator2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laki2/StringLengthComparator2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laki2/SubstringFinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laki2/SubstringFinder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laki2/SwitchCharacters.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laki2/TimeInspector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laki2/TimeInspector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laki2/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laki2/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laki2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Laki2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h1/HelloYou.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h1/HelloYou.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h1/In.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h1/In.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h1/Magic8Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h1/Magic8Ball.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h1/Month1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h1/Month1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h1/Occurrences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h1/Occurrences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h1/Signs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h1/Signs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h1/StringLengthComparator1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h1/StringLengthComparator1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h2/Dice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h2/Dice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h2/Month.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h2/Month.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h2/Replicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h2/Replicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h2/Separator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h2/Separator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h2/StringLengthComparator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h2/StringLengthComparator2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h2/TimeInspector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h2/TimeInspector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h2/XNOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h2/XNOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h3/ArrayFiller1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h3/ArrayFiller1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h3/ArrayFiller2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h3/ArrayFiller2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h3/ArrayInitialiser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h3/ArrayInitialiser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h3/Month2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h3/Month2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h3/SubstringFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h3/SubstringFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h4/Array2DPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h4/Array2DPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h4/ArrayFiller3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h4/ArrayFiller3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h4/CharacterFinder3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h4/CharacterFinder3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h4/ElementSwapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h4/ElementSwapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h4/Judge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h4/Judge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h4/ShortestPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h4/ShortestPart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h4/String2Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h4/String2Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h5/Array2DFiller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h5/Array2DFiller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h5/CharacterCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h5/CharacterCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h5/CharacterSwitcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h5/CharacterSwitcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h5/Characters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h5/Characters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h5/Indenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h5/Indenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h5/LineCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h5/LineCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h5/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/h5/test.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,29 +56,29 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="13" />
-          <entry key="txt" value="1" />
+          <entry key="java" value="18" />
+          <entry key="txt" value="2" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="13" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="JAVA" value="18" />
+          <entry key="PLAIN_TEXT" value="2" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="15" />
-          <entry key="java" value="1503" />
-          <entry key="txt" value="23" />
+          <entry key="dummy" value="38" />
+          <entry key="java" value="2405" />
+          <entry key="txt" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1503" />
-          <entry key="PLAIN_TEXT" value="38" />
+          <entry key="JAVA" value="2405" />
+          <entry key="PLAIN_TEXT" value="82" />
         </counts>
       </usages-collector>
     </session>
@@ -112,21 +119,42 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/h5/CharacterCounter.java">
+        <entry file="file://$PROJECT_DIR$/src/h5/LineCounter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="28" column="30" lean-forward="true" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+            <state relative-caret-position="463">
+              <caret line="44" column="5" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="44" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/src/h5/FileLoader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+            <state relative-caret-position="330">
+              <caret line="46" column="21" lean-forward="true" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#86#110#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/h5/test.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/h4/Array2DPrinter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="36" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -159,6 +187,10 @@
         <option value="$PROJECT_DIR$/h5/CharacterSwitcher.java" />
         <option value="$PROJECT_DIR$/h5/CharacterCounter.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/h6/LoadToArray.java" />
+        <option value="$PROJECT_DIR$/src/h5/LoadToArray.java" />
+        <option value="$PROJECT_DIR$/src/h5/test.txt" />
+        <option value="$PROJECT_DIR$/src/h5/FileLoader.java" />
       </list>
     </option>
   </component>
@@ -179,32 +211,44 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="tehtavat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tehtavat" type="462c0819:PsiDirectoryNode" />
+              <item name="Laki2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laki2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="tehtavat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tehtavat" type="462c0819:PsiDirectoryNode" />
+              <item name="Laki2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laki2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Laki2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laki2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="h4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Laki2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laki2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="h5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543407996721" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544021853867" />
     <property name="jdk.selected.PLUGIN_MODULE" value="IntelliJ IDEA IU-182.4892.20" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -212,16 +256,18 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/utils" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\lassi\OneDrive\Asiakirjat\dev\yliopisto\java\laki2\tehtavat\out\production\Laki2" />
       <recent name="$PROJECT_DIR$/h1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/h6" />
+      <recent name="$PROJECT_DIR$/utils" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -236,7 +282,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CharacterSwitcher">
+  <component name="RunManager" selected="Application.FileLoader">
+    <configuration name="Array2DFiller" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array2DFiller" />
+      <module name="Laki2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CharacterCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CharacterCounter" />
       <module name="Laki2" />
@@ -251,9 +304,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ElementSwapper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ElementSwapper" />
+    <configuration name="FileLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileLoader" />
       <module name="Laki2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -274,13 +328,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringLengthComparator1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringLengthComparator1" />
-      <module name="Laki2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Plugin" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
@@ -293,19 +340,19 @@
     <list>
       <item itemvalue="Application.LineCounter" />
       <item itemvalue="Plugin.Plugin" />
-      <item itemvalue="Application.StringLengthComparator1" />
-      <item itemvalue="Application.ElementSwapper" />
       <item itemvalue="Application.CharacterCounter" />
       <item itemvalue="Application.Indenter" />
       <item itemvalue="Application.CharacterSwitcher" />
+      <item itemvalue="Application.Array2DFiller" />
+      <item itemvalue="Application.FileLoader" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FileLoader" />
+        <item itemvalue="Application.Array2DFiller" />
         <item itemvalue="Application.CharacterSwitcher" />
         <item itemvalue="Application.Indenter" />
         <item itemvalue="Application.CharacterCounter" />
-        <item itemvalue="Application.ElementSwapper" />
-        <item itemvalue="Application.StringLengthComparator1" />
       </list>
     </recent_temporary>
   </component>
@@ -325,13 +372,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11634000" />
+    <option name="totallyTimeSpent" value="14079000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-2" y="35" width="1924" height="1047" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.2521322" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.24973376" />
       <window_info id="Structure" order="1" sideWeight="0.50080776" side_tool="true" visible="true" weight="0.2521322" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -341,14 +388,14 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286334" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32790446" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3984799" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3286334" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32899022" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -372,28 +419,34 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/h5/CharacterCounter.java</url>
+          <url>file://$PROJECT_DIR$/src/h5/CharacterCounter.java</url>
           <line>45</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/h5/Indenter.java</url>
+          <url>file://$PROJECT_DIR$/src/h5/Indenter.java</url>
           <line>5</line>
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/h5/CharacterCounter.java</url>
+          <url>file://$PROJECT_DIR$/src/h5/CharacterCounter.java</url>
           <line>20</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/h5/LineCounter.java</url>
+          <url>file://$PROJECT_DIR$/src/h5/LineCounter.java</url>
           <line>25</line>
           <properties />
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/h5/FileLoader.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -401,7 +454,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/h3/In.java" />
     <entry file="file://$PROJECT_DIR$/utils/resources/META-INF/plugin.xml" />
-    <entry file="file://$PROJECT_DIR$/h5/Array2DFiller.java">
+    <entry file="file://$PROJECT_DIR$/src/h5/Array2DFiller.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
           <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
@@ -409,79 +462,39 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/utils/In.java" />
-    <entry file="file://$PROJECT_DIR$/h1/In.java">
+    <entry file="file://$PROJECT_DIR$/src/h1/In.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="29" column="68" lean-forward="true" selection-start-line="29" selection-start-column="68" selection-end-line="29" selection-end-column="68" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/h4/ElementSwapper.java">
+    <entry file="file://$PROJECT_DIR$/src/h4/ElementSwapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/h1/StringLengthComparator1.java">
+    <entry file="file://$PROJECT_DIR$/src/h1/StringLengthComparator1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/h5/Intender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/h4/Array2DPrinter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="36" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/h5/Intender.java" />
     <entry file="file://$PROJECT_DIR$/out/production/Laki2/test.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/h5/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/h5/LineCounter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="45" column="1" lean-forward="true" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/h5/Indenter.java">
+    <entry file="file://$PROJECT_DIR$/src/h5/Indenter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/h4/String2Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/h5/CharacterSwitcher.java">
+    <entry file="file://$PROJECT_DIR$/src/h5/CharacterSwitcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
@@ -491,7 +504,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/h5/CharacterCounter.java">
+    <entry file="file://$PROJECT_DIR$/src/h5/CharacterCounter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="28" column="30" lean-forward="true" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
@@ -502,6 +515,61 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h6/LoadToArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h6/LoadToArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h6/LoadToArray.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h5/LineCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="44" column="5" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="44" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h4/String2Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h4/Array2DPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="36" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h5/test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h5/FileLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="46" column="21" lean-forward="true" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#86#110#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -570,7 +638,7 @@
       </state>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>10</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
