@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40ec9811-1d34-4a4f-b89f-11b1e37818a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/h6/Array2DPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h6/StringSaver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laki2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Laki2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h4/Array2DPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h4/Array2DPrinter1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h5/FileLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h6/FileLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laki2/Array2DPrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laki2/Array2DPrinter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h6/ArrayConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h6/ArrayConverter.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,27 +63,27 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="java" value="4" />
-          <entry key="txt" value="2" />
+          <entry key="java" value="13" />
+          <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="4" />
-          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="JAVA" value="13" />
+          <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="37" />
           <entry key="gitignore" value="9" />
-          <entry key="java" value="1360" />
+          <entry key="java" value="2987" />
           <entry key="txt" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1360" />
+          <entry key="JAVA" value="2987" />
           <entry key="PLAIN_TEXT" value="91" />
         </counts>
       </usages-collector>
@@ -104,16 +103,49 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/h6/Array2DPrinter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="35" column="53" selection-start-line="35" selection-start-column="53" selection-end-line="35" selection-end-column="53" />
+            <state relative-caret-position="108">
+              <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="41" selection-end-column="5" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
                 <element signature="e#1432#1433#0" expanded="true" />
                 <element signature="e#1467#1468#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/h6/ArrayConverter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="78" column="5" lean-forward="true" selection-start-line="53" selection-start-column="4" selection-end-line="78" selection-end-column="5" />
+              <folding>
+                <element signature="e#27#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/h6/StringSaver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/h5/Array2DFiller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="52" column="5" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="52" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -152,6 +184,8 @@
         <option value="$PROJECT_DIR$/src/h5/FileLoader.java" />
         <option value="$PROJECT_DIR$/src/h6/Array2DPrinter2.java" />
         <option value="$PROJECT_DIR$/src/h6/Array2DPrinter.java" />
+        <option value="$PROJECT_DIR$/src/h6/ArrayConverter.java" />
+        <option value="$PROJECT_DIR$/src/h6/StringSaver.java" />
       </list>
     </option>
   </component>
@@ -196,12 +230,6 @@
               <item name="tehtavat" type="b2602c69:ProjectViewProjectNode" />
               <item name="tehtavat" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="h4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tehtavat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tehtavat" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="h5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -219,7 +247,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544467728775" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544470661475" />
     <property name="jdk.selected.PLUGIN_MODULE" value="IntelliJ IDEA IU-182.4892.20" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -259,14 +287,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Array2DPrinter">
-    <configuration name="Array2DFiller" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array2DFiller" />
-      <module name="Laki2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.StringSaver">
     <configuration name="Array2DPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array2DPrinter" />
       <module name="Laki2" />
@@ -281,8 +302,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CharacterSwitcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CharacterSwitcher" />
+    <configuration name="ArrayConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayConverter" />
       <module name="Laki2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -304,6 +325,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringSaver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringSaver" />
+      <module name="Laki2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Plugin" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
@@ -316,19 +344,19 @@
     <list>
       <item itemvalue="Application.LineCounter" />
       <item itemvalue="Plugin.Plugin" />
-      <item itemvalue="Application.CharacterSwitcher" />
-      <item itemvalue="Application.Array2DFiller" />
       <item itemvalue="Application.FileLoader" />
       <item itemvalue="Application.Array2DPrinter1" />
       <item itemvalue="Application.Array2DPrinter" />
+      <item itemvalue="Application.ArrayConverter" />
+      <item itemvalue="Application.StringSaver" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringSaver" />
+        <item itemvalue="Application.ArrayConverter" />
         <item itemvalue="Application.Array2DPrinter" />
         <item itemvalue="Application.Array2DPrinter1" />
         <item itemvalue="Application.FileLoader" />
-        <item itemvalue="Application.Array2DFiller" />
-        <item itemvalue="Application.CharacterSwitcher" />
       </list>
     </recent_temporary>
   </component>
@@ -345,19 +373,19 @@
       <workItem from="1543243030647" duration="7030000" />
       <workItem from="1543402516417" duration="4604000" />
       <workItem from="1544258259609" duration="609000" />
-      <workItem from="1544372530476" duration="8786000" />
+      <workItem from="1544372530476" duration="11824000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28050000" />
+    <option name="totallyTimeSpent" value="31088000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4918919" visible="true" weight="0.26545843" />
-      <window_info id="Structure" order="1" sideWeight="0.5081081" side_tool="true" visible="true" weight="0.26545843" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4935484" visible="true" weight="0.26545843" />
+      <window_info id="Structure" order="1" sideWeight="0.5064516" side_tool="true" visible="true" weight="0.26545843" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -366,8 +394,8 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3275488" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39804772" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3275488" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39804772" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -444,25 +472,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/h3/In.java" />
     <entry file="file://$PROJECT_DIR$/utils/resources/META-INF/plugin.xml" />
-    <entry file="file://$PROJECT_DIR$/src/h5/Array2DFiller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/utils/In.java" />
     <entry file="file://$PROJECT_DIR$/src/h1/In.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="29" column="68" lean-forward="true" selection-start-line="29" selection-start-column="68" selection-end-line="29" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/h4/ElementSwapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
@@ -527,13 +541,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/h4/Array2DPrinter1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="36" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/h5/test.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -554,14 +561,79 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/h4/Array2DPrinter1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="24" lean-forward="true" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h4/ArrayFiller3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-378">
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h4/CharacterFinder3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h4/ElementSwapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-792">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h4/Judge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h5/Array2DFiller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="52" column="5" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="52" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/h6/Array2DPrinter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="35" column="53" selection-start-line="35" selection-start-column="53" selection-end-line="35" selection-end-column="53" />
+        <state relative-caret-position="108">
+          <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="41" selection-end-column="5" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
             <element signature="e#1432#1433#0" expanded="true" />
             <element signature="e#1467#1468#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h6/ArrayConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="78" column="5" lean-forward="true" selection-start-line="53" selection-start-column="4" selection-end-line="78" selection-end-column="5" />
+          <folding>
+            <element signature="e#27#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h6/StringSaver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
