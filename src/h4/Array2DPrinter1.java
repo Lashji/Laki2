@@ -1,4 +1,4 @@
-public class Array2DPrinter {
+public class Array2DPrinter1 {
     public static void main(String[] args) {
 
         System.out.println(erotin());

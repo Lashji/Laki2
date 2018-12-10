@@ -8,10 +8,8 @@ public class FileLoader {
     public static Scanner sc;
 
 
-    public static void main(String[] args) throws Exception{
+    public static void main(String[] args) throws Exception {
         sc = new Scanner(System.in);
-        String current = new java.io.File( "." ).getCanonicalPath();
-        System.out.println(current);
 
         System.out.println("Hello! I load files.\n" +
                 "Please, enter file name:");
@@ -19,36 +17,47 @@ public class FileLoader {
         sc.close();
         char[][] arr = loadToArray(s);
 
+        if (arr != null) {
 
-        print2DCharacterArray(arr);
+            print2DCharacterArray(arr);
 
+        } else {
+            System.out.println("I could not load.");
+        }
     }
 
-
+    //    Lataa tekstitiedoston 2 -ulotteiseen taulukkoon ja palauttaa sen
     public static char[][] loadToArray(String tiedostonimi) {
-        File tiedosto = new File(tiedostonimi);
-        int[] filesizes = countLines(tiedostonimi);
+
+
         try {
-            sc = new Scanner(tiedosto);
-            char[][] t = new char[filesizes[0]][filesizes[1]];
+            File tiedosto = new File(tiedostonimi);
+            int[] filesizes = countLines(tiedostonimi);
 
-            int i = 0;
+            if (filesizes != null) {
 
-            while (sc.hasNextLine()) {
-                String tmps = sc.nextLine();
-                for (int j = 0; j < filesizes[1]; j++) {
+                sc = new Scanner(tiedosto);
+                char[][] t = new char[filesizes[0]][filesizes[1]];
 
-                    t[i][j] = tmps.charAt(j);
+                int i = 0;
 
+                while (sc.hasNextLine()) {
+                    String tmps = sc.nextLine();
+                    for (int j = 0; j < filesizes[1]; j++) {
+
+                        t[i][j] = tmps.charAt(j);
+
+                    }
+                    i++;
                 }
-                i++;
+                sc.close();
+                return t;
             }
-            sc.close();
-            return t;
+            return null;
         } catch (FileNotFoundException e) {
-            System.out.println(e.getMessage());
+//            System.out.println("I could not load.");
         } catch (Exception e) {
-            System.out.println(e.getMessage());
+//            System.out.println("I could not load.");
         }
 
 
@@ -72,10 +81,10 @@ public class FileLoader {
             }
             sc.close();
         } catch (FileNotFoundException e) {
-            System.out.println("I could not count.");
+//            System.out.println("I could not load.");
             return null;
         } catch (Exception e) {
-            System.out.println("I could not count.");
+//            System.out.println("I could not load.");
             return null;
         }
         return lines;
